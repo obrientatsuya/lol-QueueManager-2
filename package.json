@@ -1,0 +1,14 @@
+{
+  "name": "lol-queuemanager",
+  "version": "2.0.0",
+  "description": "automatized queue for league of legends",
+  "main": "main.js",
+  "scripts": {
+     "start": "electron ."
+  },
+  "author": "obrien tatsuya and shiro amurha",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^19.0.4"
+  }
+}
